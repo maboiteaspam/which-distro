@@ -1,0 +1,15 @@
+{
+  "name": "which-distro",
+  "version": "1.0.0",
+  "description": "A module to let you know which distro you are specifically running own (currently ubunu/fedora).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "maboiteaspam",
+  "license": "WTFPL",
+  "dependencies": {
+    "commander": "^2.6.0",
+    "debug": "^2.1.1"
+  }
+}
