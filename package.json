@@ -8,6 +8,13 @@
   },
   "author": "maboiteaspam",
   "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/maboiteaspam/which-distro/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/maboiteaspam/which-distro"
+  },
   "dependencies": {
     "commander": "^2.6.0",
     "debug": "^2.1.1"

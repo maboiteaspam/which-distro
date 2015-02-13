@@ -26,7 +26,7 @@ npm i -g which-distro
 # Usage
 
 ```
-  Usage: cli [options]
+  Usage: which-distro [options]
 
   Options:
 
